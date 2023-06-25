@@ -22,3 +22,9 @@
   
 ### Backtracking
 - N Queens Problem
+- Sum of Subset
+
+### String Matching 
+- KMP
+- Rabin Karp
+  
