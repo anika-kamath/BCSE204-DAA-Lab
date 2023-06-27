@@ -13,6 +13,7 @@
 - 0-1 Fractional Knapsack
 - Kadane's Algorithm
 - Matrix Chain Multiplication
+- LCS
   
 ### Greedy
 - Activity Selection Problem
