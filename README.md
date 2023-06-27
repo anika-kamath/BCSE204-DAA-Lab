@@ -1,6 +1,6 @@
 # DAA-lab
 
-## Programs to Study for in Theory
+## Programs to Study (Theory)
 
 ### DCC
 - Quick sort
